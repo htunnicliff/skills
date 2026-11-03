@@ -1,0 +1,6 @@
+[tools]
+oxfmt = "0.75.0"
+
+[tasks.format]
+description = "Format repository"
+run = "oxfmt"
